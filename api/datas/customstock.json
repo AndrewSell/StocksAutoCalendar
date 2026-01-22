@@ -75,6 +75,11 @@
         "industry": "能源"
     },
     {
+        "symbol": "CRCL",
+        "companyName": "[USDC] Circle",
+        "industry": "加密货币"
+    },
+    {
         "symbol": "NET",
         "companyName": "Cloudflare",
         "industry": "云计算"
