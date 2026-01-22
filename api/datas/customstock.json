@@ -7,7 +7,7 @@
     {
         "symbol": "COIN",
         "companyName": "Coinbase",
-        "industry": "金融科技"
+        "industry": "金融"
     },
     {
         "symbol": "SONY",
@@ -31,18 +31,13 @@
     },
     {
         "symbol": "NVO",
-        "companyName": "Novo Nordisk",
+        "companyName": "诺和诺德",
         "industry": "制药"
     },
     {
         "symbol": "SMCI",
-        "companyName": "Super Micro Computer",
-        "industry": "计算机硬件"
-    },
-    {
-        "symbol": "U",
-        "companyName": "Unity",
-        "industry": "软件"
+        "companyName": "超微电脑",
+        "industry": "半导体"
     },
     {
         "symbol": "TSM",
@@ -50,53 +45,38 @@
         "industry": "半导体"
     },
     {
-        "symbol": "JD",
-        "companyName": "京东",
-        "industry": "电子商务"
+        "symbol": "NVDA",
+        "companyName": "英伟达",
+        "industry": "半导体"
     },
     {
-        "symbol": "BZ",
-        "companyName": "BOSS 直聘",
-        "industry": "人力资源"
+        "symbol": "TSLA",
+        "companyName": "特斯拉",
+        "industry": "汽车"
+    },
+    {
+        "symbol": "APLD",
+        "companyName": "Applied Digital",
+        "industry": "互联网"
+    },
+    {
+        "symbol": "AAPL",
+        "companyName": "苹果",
+        "industry": "互联网"
+    },
+    {
+        "symbol": "PYPL",
+        "companyName": "PayPal",
+        "industry": "金融"
+    },
+    {
+        "symbol": "BW",
+        "companyName": "Babcock & Wilcox",
+        "industry": "能源"
     },
     {
         "symbol": "NET",
         "companyName": "Cloudflare",
         "industry": "云计算"
-    },
-    {
-        "symbol": "SQ",
-        "companyName": "Square",
-        "industry": "金融科技"
-    },
-    {
-        "symbol": "NIO",
-        "companyName": "蔚来",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "LI",
-        "companyName": "理想汽车",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "LKNCY",
-        "companyName": "Luckin Coffee",
-        "industry": "餐饮"
-    },
-    {
-        "symbol": "BIDU",
-        "companyName": "百度",
-        "industry": "互联网"
-    },
-    {
-        "symbol": "XPEV",
-        "companyName": "小鹏汽车",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "AI",
-        "companyName": "C3.ai",
-        "industry": "软件"
     }
 ]
