@@ -1,162 +1,174 @@
-[
-    {
+[{
+        "symbol": "UNH",
+        "companyName": "联合健康",
+        "industry": "保险"
+    },{
         "symbol": "PDD",
         "companyName": "拼多多",
         "industry": "电子商务"
-    },
-    {
-        "symbol": "COIN",
-        "companyName": "Coinbase",
-        "industry": "金融/加密货币"
-    },
-    {
-        "symbol": "SONY",
-        "companyName": "索尼",
-        "industry": "消费电子"
-    },
-    {
+    },{
         "symbol": "SHOP",
         "companyName": "Shopify",
         "industry": "电子商务"
-    },
-    {
-        "symbol": "ARM",
-        "companyName": "Arm",
-        "industry": "半导体"
-    },
-    {
+    },{
         "symbol": "BABA",
         "companyName": "阿里巴巴",
         "industry": "电子商务"
-    },
-    {
-        "symbol": "NVO",
-        "companyName": "诺和诺德",
-        "industry": "制药"
-    },
-    {
-        "symbol": "SMCI",
-        "companyName": "超微电脑",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "TSM",
-        "companyName": "台积电",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "NVDA",
-        "companyName": "英伟达",
-        "industry": "半导体"
-    },
-    {
-        "symbol": "TSLA",
-        "companyName": "特斯拉",
-        "industry": "汽车"
-    },
-    {
-        "symbol": "APLD",
-        "companyName": "Applied Digital",
-        "industry": "互联网"
-    },
-    {
+    },{
+        "symbol": "SONY",
+        "companyName": "索尼",
+        "industry": "消费电子"
+    },{
         "symbol": "AAPL",
         "companyName": "苹果",
-        "industry": "互联网"
-    },
-    {
-        "symbol": "PYPL",
-        "companyName": "PayPal",
-        "industry": "金融"
-    },
-    {
-        "symbol": "BW",
-        "companyName": "Babcock & Wilcox",
-        "industry": "能源"
-    },
-    {
-        "symbol": "CRCL",
-        "companyName": "[USDC] Circle",
-        "industry": "加密货币"
-    },
-    {
-        "symbol": "NET",
-        "companyName": "Cloudflare",
-        "industry": "云计算"
-    },
-    {
+        "industry": "消费电子"
+    },{
         "symbol": "MSTR",
         "companyName": "Strategy",
         "industry": "加密货币"
-    },
-    {
+    },{
+        "symbol": "COIN",
+        "companyName": "Coinbase",
+        "industry": "金融/加密货币"
+    },{
+        "symbol": "PYPL",
+        "companyName": "PayPal",
+        "industry": "金融"
+    },{
+        "symbol": "CRCL",
+        "companyName": "[USDC] Circle",
+        "industry": "加密货币"
+    },{
         "symbol": "V",
         "companyName": "VISA",
         "industry": "金融"
-    },
-    {
+    },{
         "symbol": "MA",
         "companyName": "万事达",
         "industry": "金融"
-    },
-    {
+    },{
         "symbol": "HSBC",
         "companyName": "汇丰银行",
         "industry": "金融"
-    },
-    {
+    },{
+        "symbol": "ARM",
+        "companyName": "Arm",
+        "industry": "半导体"
+    },{
+        "symbol": "SMCI",
+        "companyName": "超微电脑",
+        "industry": "半导体"
+    },{
+        "symbol": "TSM",
+        "companyName": "台积电",
+        "industry": "半导体"
+    },{
+        "symbol": "NVDA",
+        "companyName": "英伟达",
+        "industry": "半导体"
+    },{
         "symbol": "AMD",
         "companyName": "AMD",
         "industry": "半导体"
-    },
-    {
-        "symbol": "FIG",
-        "companyName": "Figma",
-        "industry": "软件/AI"
-    },
-    {
-        "symbol": "GTLB",
-        "companyName": "GitLab",
-        "industry": "软件"
-    },
-    {
-        "symbol": "META",
-        "companyName": "META",
-        "industry": "软件/社交/AI"
-    },
-    {
-        "symbol": "PD",
-        "companyName": "PagerDuty",
-        "industry": "软件/云计算"
-    },
-    {
+    },{
         "symbol": "AVGO",
         "companyName": "博通",
         "industry": "半导体/软件"
-    },
-    {
-        "symbol": "NFLX",
-        "companyName": "Netflix",
-        "industry": "流媒体"
-    },
-    {
-        "symbol": "MSFT",
-        "companyName": "微软",
-        "industry": "软件"
-    },
-    {
+    },{
         "symbol": "MU",
         "companyName": "美光科技",
         "industry": "半导体"
-    },
-    {
+    },{
         "symbol": "INTC",
         "companyName": "英特尔",
         "industry": "半导体"
-    },
-    {
+    },{
+        "symbol": "MRVL",
+        "companyName": "迈威尔科技",
+        "industry": "半导体"
+    },{
+        "symbol": "QCOM",
+        "companyName": "高通",
+        "industry": "半导体"
+    },{
+        "symbol": "NFLX",
+        "companyName": "Netflix",
+        "industry": "互联网/流媒体"
+    },{
+        "symbol": "MSFT",
+        "companyName": "微软",
+        "industry": "软件/云计算/互联网"
+    },{
         "symbol": "GOOGL",
         "companyName": "谷歌-A",
         "industry": "互联网/云计算"
+    },{
+        "symbol": "PD",
+        "companyName": "PagerDuty",
+        "industry": "软件/云计算"
+    },{
+        "symbol": "FIG",
+        "companyName": "Figma",
+        "industry": "软件/AI"
+    },{
+        "symbol": "GTLB",
+        "companyName": "GitLab",
+        "industry": "软件"
+    },{
+        "symbol": "META",
+        "companyName": "META",
+        "industry": "互联网/AI"
+    },{
+        "symbol": "NET",
+        "companyName": "Cloudflare",
+        "industry": "云计算"
+    },{
+        "symbol": "APLD",
+        "companyName": "Applied Digital",
+        "industry": "数据中心"
+    },{
+        "symbol": "NUAI",
+        "companyName": "New Era Energy & Digital",
+        "industry": "数据中心/氦气/石油/天然气"
+    },{
+        "symbol": "BW",
+        "companyName": "Babcock & Wilcox",
+        "industry": "能源"
+    },{
+        "symbol": "OXY",
+        "companyName": "西方石油",
+        "industry": "石油/天然气"
+    },{
+        "symbol": "NVO",
+        "companyName": "诺和诺德",
+        "industry": "制药"
+    },{
+        "symbol": "JNJ",
+        "companyName": "强生",
+        "industry": "药物/医疗科技"
+    },{
+        "symbol": "WST",
+        "companyName": "西式医疗服务",
+        "industry": "医疗注射药物"
+    },{
+        "symbol": "LUNR",
+        "companyName": "Intuitive Machines",
+        "industry": "太空"
+    },{
+        "symbol": "RKLB",
+        "companyName": "火箭实验室",
+        "industry": "太空"
+    },{
+        "symbol": "SCCO",
+        "companyName": "南方铜业",
+        "industry": "贵金属"
+    },{
+        "symbol": "FCX",
+        "companyName": "麦克莫兰铜金矿",
+        "industry": "贵金属"
+    },{
+        "symbol": "TSLA",
+        "companyName": "特斯拉",
+        "industry": "汽车"
     }
 ]
