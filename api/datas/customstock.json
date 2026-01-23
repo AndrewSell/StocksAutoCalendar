@@ -7,7 +7,7 @@
     {
         "symbol": "COIN",
         "companyName": "Coinbase",
-        "industry": "金融"
+        "industry": "金融/加密货币"
     },
     {
         "symbol": "SONY",
@@ -83,5 +83,80 @@
         "symbol": "NET",
         "companyName": "Cloudflare",
         "industry": "云计算"
+    },
+    {
+        "symbol": "MSTR",
+        "companyName": "Strategy",
+        "industry": "加密货币"
+    },
+    {
+        "symbol": "V",
+        "companyName": "VISA",
+        "industry": "金融"
+    },
+    {
+        "symbol": "MA",
+        "companyName": "万事达",
+        "industry": "金融"
+    },
+    {
+        "symbol": "HSBC",
+        "companyName": "汇丰银行",
+        "industry": "金融"
+    },
+    {
+        "symbol": "AMD",
+        "companyName": "AMD",
+        "industry": "半导体"
+    },
+    {
+        "symbol": "FIG",
+        "companyName": "Figma",
+        "industry": "软件/AI"
+    },
+    {
+        "symbol": "GTLB",
+        "companyName": "GitLab",
+        "industry": "软件"
+    },
+    {
+        "symbol": "META",
+        "companyName": "META",
+        "industry": "软件/社交/AI"
+    },
+    {
+        "symbol": "PD",
+        "companyName": "PagerDuty",
+        "industry": "软件/云计算"
+    },
+    {
+        "symbol": "AVGO",
+        "companyName": "博通",
+        "industry": "半导体/软件"
+    },
+    {
+        "symbol": "NFLX",
+        "companyName": "Netflix",
+        "industry": "流媒体"
+    },
+    {
+        "symbol": "MSFT",
+        "companyName": "微软",
+        "industry": "软件"
+    },
+    {
+        "symbol": "MU",
+        "companyName": "美光科技",
+        "industry": "半导体"
+    },
+    {
+        "symbol": "INTC",
+        "companyName": "英特尔",
+        "industry": "半导体"
+    },
+    {
+        "symbol": "GOOGL",
+        "companyName": "谷歌-A",
+        "industry": "互联网/云计算"
     }
 ]
