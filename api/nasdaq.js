@@ -57,9 +57,9 @@ async function fetchEarningsData(date) {
     const url = `https://api.nasdaq.com/api/calendar/earnings?date=${date}`;
     const options = {
         headers: {
-            'accept': 'application/json, text/plain, */*',
-            'accept-encoding': 'gzip, deflate, br',
-            'accept-language': 'en-US,en;q=0.9',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+            'accept-encoding': 'gzip, deflate, br, zstd',
+            'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8,zh-CN;q=0.7,zh;q=0.6',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
         },
         method: 'GET',
@@ -67,6 +67,7 @@ async function fetchEarningsData(date) {
     };
     console.log('fetching date', date);
     const res = await fetch(url, options);
+    console.log('fetching respone', res);
     const data = await res.json();
     let _date = data.data.asOf;
     let _data = data.data.rows;
