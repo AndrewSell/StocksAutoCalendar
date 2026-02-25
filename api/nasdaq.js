@@ -60,8 +60,6 @@ async function fetchEarningsData(date) {
             'accept': 'application/json, text/plain, */*',
             'accept-encoding': 'gzip, deflate, br',
             'accept-language': 'en-US,en;q=0.9',
-            'origin': 'https://www.nasdaq.com',
-            'referer': 'https://www.nasdaq.com/',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36'
         },
         method: 'GET',
