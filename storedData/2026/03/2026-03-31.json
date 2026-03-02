@@ -1,0 +1,49 @@
+{
+  "date": "2026-03-31",
+  "data": [
+    {
+      "lastYearRptDt": "3/20/2025",
+      "lastYearEPS": "$0.54",
+      "time": "time-after-hours",
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "marketCap": "$92,050,239,936",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "$0.32",
+      "noOfEsts": "12"
+    },
+    {
+      "lastYearRptDt": "3/20/2025",
+      "lastYearEPS": "$4.28",
+      "time": "time-pre-market",
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "marketCap": "$8,043,490,344",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "$4.36",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "4/01/2025",
+      "lastYearEPS": "($0.04)",
+      "time": "time-after-hours",
+      "symbol": "NCNO",
+      "name": "nCino, Inc.",
+      "marketCap": "$1,851,015,384",
+      "fiscalQuarterEnding": "Jan/2026",
+      "epsForecast": "$0.06",
+      "noOfEsts": "5"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$0.28",
+      "time": "time-pre-market",
+      "symbol": "BOSC",
+      "name": "B.O.S. Better Online Solutions",
+      "marketCap": "$28,326,164",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "5"
+    }
+  ]
+}
