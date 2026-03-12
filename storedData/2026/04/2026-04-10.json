@@ -1,0 +1,192 @@
+{
+  "date": "2026-04-10",
+  "data": [
+    {
+      "lastYearRptDt": "4/11/2025",
+      "lastYearEPS": "$11.30",
+      "time": "time-not-supplied",
+      "symbol": "BLK",
+      "name": "BlackRock, Inc.",
+      "marketCap": "$147,946,442,797",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$12.36",
+      "noOfEsts": "8"
+    },
+    {
+      "lastYearRptDt": "4/11/2025",
+      "lastYearEPS": "$0.65",
+      "time": "time-not-supplied",
+      "symbol": "WAFD",
+      "name": "WaFd, Inc.",
+      "marketCap": "$2,325,969,820",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$0.75",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "4/11/2025",
+      "lastYearEPS": "($1.10)",
+      "time": "time-not-supplied",
+      "symbol": "DBVT",
+      "name": "DBV Technologies S.A.",
+      "marketCap": "$700,468,614",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "($1.30)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$2.78",
+      "time": "time-not-supplied",
+      "symbol": "HIFS",
+      "name": "Hingham Institution for Savings",
+      "marketCap": "$595,044,540",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "4/11/2025",
+      "lastYearEPS": "$1.13",
+      "time": "time-not-supplied",
+      "symbol": "UNTY",
+      "name": "Unity Bancorp, Inc.",
+      "marketCap": "$501,021,679",
+      "fiscalQuarterEnding": "Mar/2026",
+      "epsForecast": "$1.37",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "4/11/2025",
+      "lastYearEPS": "($0.01)",
+      "time": "time-not-supplied",
+      "symbol": "GLDG",
+      "name": "GoldMining Inc.",
+      "marketCap": "$325,743,074",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "($0.02)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "PLG",
+      "name": "Platinum Group Metals Ltd.",
+      "marketCap": "$288,897,349",
+      "fiscalQuarterEnding": "Feb/2026",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.75)",
+      "time": "time-not-supplied",
+      "symbol": "PLCE",
+      "name": "Children's Place, Inc. (The)",
+      "marketCap": "$86,233,088",
+      "fiscalQuarterEnding": "Jan/2026",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "NA",
+      "name": "Nano Labs Ltd",
+      "marketCap": "$69,536,907",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "GMM",
+      "name": "Global Mofy AI Limited ",
+      "marketCap": "$59,481,665",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$66",
+      "time": "time-not-supplied",
+      "symbol": "QCLS",
+      "name": "Q/C Technologies, Inc.",
+      "marketCap": "$30,157,167",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "4/11/2025",
+      "lastYearEPS": "($0.31)",
+      "time": "time-not-supplied",
+      "symbol": "BEEM",
+      "name": "Beam Global",
+      "marketCap": "$29,876,073",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "($0.22)",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "PLAG",
+      "name": "Planet Green Holdings Corp",
+      "marketCap": "$22,987,649",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($17.10)",
+      "time": "time-not-supplied",
+      "symbol": "GURE",
+      "name": "Gulf Resources, Inc.",
+      "marketCap": "$7,128,029",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.40)",
+      "time": "time-not-supplied",
+      "symbol": "ITP",
+      "name": "IT Tech Packaging, Inc.",
+      "marketCap": "$3,181,016",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "SGN",
+      "name": "Signing Day Sports, Inc.",
+      "marketCap": "$3,045,909",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-not-supplied",
+      "symbol": "BDRX",
+      "name": "Biodexa Pharmaceuticals plc",
+      "marketCap": "$2,061,292",
+      "fiscalQuarterEnding": "Dec/2025",
+      "epsForecast": "",
+      "noOfEsts": "2"
+    }
+  ]
+}
