@@ -170,5 +170,13 @@
         "symbol": "TSLA",
         "companyName": "特斯拉",
         "industry": "汽车"
+    },{
+        "symbol": "ENB",
+        "companyName": "安桥",
+        "industry": "能源供应"
+    },{
+        "symbol": "CHA",
+        "companyName": "霸王茶姬",
+        "industry": "餐饮服务"
     }
 ]
