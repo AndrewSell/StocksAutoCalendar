@@ -7,10 +7,32 @@
       "time": "time-after-hours",
       "symbol": "ADBE",
       "name": "Adobe Inc.",
-      "marketCap": "$97,590,048,000",
+      "marketCap": "$110,762,926,000",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$4.74",
       "noOfEsts": "11"
+    },
+    {
+      "lastYearRptDt": "6/16/2025",
+      "lastYearEPS": "$1.90",
+      "time": "time-after-hours",
+      "symbol": "LEN",
+      "name": "Lennar Corporation",
+      "marketCap": "$22,193,939,453",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "$1.24",
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.90",
+      "time": "time-after-hours",
+      "symbol": "LEN.B",
+      "name": "Lennar Corporation",
+      "marketCap": "$22,193,939,453",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "6/12/2025",
@@ -18,7 +40,7 @@
       "time": "time-not-supplied",
       "symbol": "RH",
       "name": "RH",
-      "marketCap": "$2,819,049,696",
+      "marketCap": "$2,822,451,835",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($1.70)",
       "noOfEsts": "7"
@@ -29,7 +51,7 @@
       "time": "time-pre-market",
       "symbol": "MH",
       "name": "McGraw Hill, Inc.",
-      "marketCap": "$2,242,357,833",
+      "marketCap": "$2,423,809,276",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.15",
       "noOfEsts": "7"
@@ -40,10 +62,10 @@
       "time": "time-not-supplied",
       "symbol": "SENEA",
       "name": "Seneca Foods Corp.",
-      "marketCap": "$984,843,565",
+      "marketCap": "$980,174,456",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "N/A",
@@ -51,7 +73,7 @@
       "time": "time-not-supplied",
       "symbol": "SENEB",
       "name": "Seneca Foods Corp.",
-      "marketCap": "$984,843,565",
+      "marketCap": "$980,174,456",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "7"
@@ -62,10 +84,10 @@
       "time": "time-not-supplied",
       "symbol": "UXIN",
       "name": "Uxin Limited",
-      "marketCap": "$503,754,798",
+      "marketCap": "$505,954,600",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "N/A",
@@ -73,10 +95,10 @@
       "time": "time-not-supplied",
       "symbol": "MSB",
       "name": "Mesabi Trust",
-      "marketCap": "$347,417,865",
+      "marketCap": "$338,889,858",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "6/12/2025",
@@ -84,7 +106,7 @@
       "time": "time-pre-market",
       "symbol": "LOVE",
       "name": "The Lovesac Company",
-      "marketCap": "$238,104,189",
+      "marketCap": "$226,280,269",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($1.03)",
       "noOfEsts": "2"
@@ -95,7 +117,7 @@
       "time": "time-pre-market",
       "symbol": "ACB",
       "name": "Aurora Cannabis Inc.",
-      "marketCap": "$216,022,558",
+      "marketCap": "$215,501,257",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.07)",
       "noOfEsts": "1"
@@ -106,43 +128,21 @@
       "time": "time-not-supplied",
       "symbol": "FRD",
       "name": "Friedman Industries Inc.",
-      "marketCap": "$168,487,592",
+      "marketCap": "$169,056,566",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.01",
-      "time": "time-not-supplied",
-      "symbol": "HTLM",
-      "name": "HomesToLife Ltd",
-      "marketCap": "$163,231,250",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "6/12/2025",
       "lastYearEPS": "($0.29)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "HOFT",
       "name": "Hooker Furnishings Corporation",
-      "marketCap": "$140,028,680",
+      "marketCap": "$132,321,173",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.07)",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$0.39",
-      "time": "time-not-supplied",
-      "symbol": "YRD",
-      "name": "Yiren Digital Ltd.",
-      "marketCap": "$128,608,038",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "6/12/2025",
@@ -157,14 +157,14 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.26",
+      "lastYearEPS": "$0.39",
       "time": "time-not-supplied",
-      "symbol": "CRMT",
-      "name": "America's Car-Mart, Inc.",
-      "marketCap": "$106,603,458",
-      "fiscalQuarterEnding": "Apr/2026",
+      "symbol": "YRD",
+      "name": "Yiren Digital Ltd.",
+      "marketCap": "$117,234,538",
+      "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "6/11/2025",
@@ -172,7 +172,7 @@
       "time": "time-pre-market",
       "symbol": "VRA",
       "name": "Vera Bradley, Inc.",
-      "marketCap": "$97,258,822",
+      "marketCap": "$90,149,259",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.33)",
       "noOfEsts": "1"
@@ -186,18 +186,29 @@
       "marketCap": "$86,174,595",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "$1.26",
+      "time": "time-not-supplied",
+      "symbol": "CRMT",
+      "name": "America's Car-Mart, Inc.",
+      "marketCap": "$56,954,807",
+      "fiscalQuarterEnding": "Apr/2026",
+      "epsForecast": "",
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.06",
-      "time": "time-not-supplied",
+      "time": "time-after-hours",
       "symbol": "ZDGE",
       "name": "Zedge, Inc.",
-      "marketCap": "$39,256,107",
+      "marketCap": "$42,255,743",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "N/A",
@@ -205,10 +216,10 @@
       "time": "time-not-supplied",
       "symbol": "WLDS",
       "name": "Wearable Devices Ltd.",
-      "marketCap": "$5,660,767",
+      "marketCap": "$6,248,644",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "11"
+      "noOfEsts": "7"
     },
     {
       "lastYearRptDt": "N/A",
@@ -216,7 +227,7 @@
       "time": "time-not-supplied",
       "symbol": "CMND",
       "name": "Clearmind Medicine Inc.",
-      "marketCap": "$2,496,631",
+      "marketCap": "$3,230,335",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "",
       "noOfEsts": "7"
