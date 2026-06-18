@@ -7,7 +7,7 @@
       "time": "time-after-hours",
       "symbol": "MU",
       "name": "Micron Technology, Inc.",
-      "marketCap": "$1,106,995,021,802",
+      "marketCap": "$1,151,145,809,899",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$19.40",
       "noOfEsts": "8"
@@ -18,9 +18,9 @@
       "time": "time-pre-market",
       "symbol": "PAYX",
       "name": "Paychex, Inc.",
-      "marketCap": "$36,054,811,355",
+      "marketCap": "$35,929,409,547",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$1.32",
+      "epsForecast": "$1.31",
       "noOfEsts": "6"
     },
     {
@@ -29,7 +29,7 @@
       "time": "time-after-hours",
       "symbol": "TCOM",
       "name": "Trip.com Group Limited",
-      "marketCap": "$29,262,401,666",
+      "marketCap": "$29,111,272,413",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.74",
       "noOfEsts": "2"
@@ -40,9 +40,20 @@
       "time": "time-not-supplied",
       "symbol": "JEF",
       "name": "Jefferies Financial Group Inc.",
-      "marketCap": "$12,605,296,050",
+      "marketCap": "$12,678,891,680",
       "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "$0.98",
+      "epsForecast": "$1.09",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "6/25/2025",
+      "lastYearEPS": "($0.04)",
+      "time": "time-pre-market",
+      "symbol": "NG",
+      "name": "Novagold Resources Inc.",
+      "marketCap": "$3,643,726,767",
+      "fiscalQuarterEnding": "May/2026",
+      "epsForecast": "($0.06)",
       "noOfEsts": "2"
     },
     {
@@ -51,21 +62,10 @@
       "time": "time-after-hours",
       "symbol": "FUL",
       "name": "H. B. Fuller Company",
-      "marketCap": "$3,467,026,517",
+      "marketCap": "$3,471,930,374",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$1.37",
       "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "6/25/2025",
-      "lastYearEPS": "($0.04)",
-      "time": "time-pre-market",
-      "symbol": "NG",
-      "name": "Novagold Resources Inc.",
-      "marketCap": "$3,287,955,135",
-      "fiscalQuarterEnding": "May/2026",
-      "epsForecast": "($0.06)",
-      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "6/25/2025",
@@ -73,7 +73,7 @@
       "time": "time-after-hours",
       "symbol": "WS",
       "name": "Worthington Steel, Inc.",
-      "marketCap": "$2,207,535,386",
+      "marketCap": "$2,065,277,640",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$0.73",
       "noOfEsts": "1"
@@ -84,7 +84,7 @@
       "time": "time-after-hours",
       "symbol": "MLKN",
       "name": "MillerKnoll, Inc.",
-      "marketCap": "$1,110,405,648",
+      "marketCap": "$1,073,483,292",
       "fiscalQuarterEnding": "May/2026",
       "epsForecast": "$0.52",
       "noOfEsts": "3"
@@ -95,7 +95,7 @@
       "time": "time-pre-market",
       "symbol": "DAKT",
       "name": "Daktronics, Inc.",
-      "marketCap": "$980,451,633",
+      "marketCap": "$977,070,765",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "$0.22",
       "noOfEsts": "2"
@@ -106,7 +106,7 @@
       "time": "time-not-supplied",
       "symbol": "LOT",
       "name": "Lotus Technology Inc.",
-      "marketCap": "$764,086,951",
+      "marketCap": "$760,876,502",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.18)",
       "noOfEsts": "1"
@@ -117,7 +117,7 @@
       "time": "time-not-supplied",
       "symbol": "VIOT",
       "name": "Viomi Technology Co., Ltd",
-      "marketCap": "$61,935,991",
+      "marketCap": "$60,367,394",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -128,7 +128,7 @@
       "time": "time-pre-market",
       "symbol": "MNY",
       "name": "MoneyHero Limited",
-      "marketCap": "$57,763,183",
+      "marketCap": "$50,876,035",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.06)",
       "noOfEsts": "1"
@@ -139,7 +139,7 @@
       "time": "time-not-supplied",
       "symbol": "CULP",
       "name": "Culp, Inc.",
-      "marketCap": "$39,128,003",
+      "marketCap": "$40,394,281",
       "fiscalQuarterEnding": "Apr/2026",
       "epsForecast": "($0.11)",
       "noOfEsts": "1"
@@ -150,7 +150,7 @@
       "time": "time-not-supplied",
       "symbol": "NSRX",
       "name": "Nasus Pharma Ltd.",
-      "marketCap": "$33,727,127",
+      "marketCap": "$35,952,181",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "($0.27)",
       "noOfEsts": "1"
@@ -161,7 +161,7 @@
       "time": "time-not-supplied",
       "symbol": "CRWS",
       "name": "Crown Crafts, Inc.",
-      "marketCap": "$29,739,848",
+      "marketCap": "$29,525,892",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -172,7 +172,7 @@
       "time": "time-not-supplied",
       "symbol": "PLRZ",
       "name": "Polyrizon Ltd.",
-      "marketCap": "$20,833,668",
+      "marketCap": "$21,432,660",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -183,7 +183,7 @@
       "time": "time-not-supplied",
       "symbol": "PBM",
       "name": "Psyence Biomedical Ltd.",
-      "marketCap": "$7,220,559",
+      "marketCap": "$6,873,625",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
@@ -194,7 +194,7 @@
       "time": "time-not-supplied",
       "symbol": "BNRG",
       "name": "Brenmiller Energy Ltd",
-      "marketCap": "$2,463,590",
+      "marketCap": "$2,443,397",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "1"
