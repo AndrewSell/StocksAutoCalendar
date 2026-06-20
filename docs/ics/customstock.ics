@@ -6,25 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8QPSbnLn0aewT395d5d8t
-SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20260619T021721Z
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:财务季度：Apr/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $1.70，当前市值: $5
-	\,363\,501\,604\,704。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
-	n在富途查看：https://www.futunn.com/hk/stock/NVDA-US 
-STATUS:CONFIRMED
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT2H
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:DR_qxbkURQhs09NaMoGw5
+UID:jJAffl0-iFfCiRPBehHIm
 SUMMARY:迈威尔科技 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Apr/2026。\n代码：MRVL，公司：迈威尔科技，行业: 半导体。\n预计每股收益: $0.61，当前市值: 
 	$182\,342\,703\,809。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRVL \n
@@ -38,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:EXqdZy6Gu5VpS05QeWYJp
+UID:M-Jgov5MIAyQlSeOC2COA
 SUMMARY:拼多多 盘前发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260527
 DESCRIPTION:财务季度：Mar/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.03，当前市值: $1
 	37\,557\,034\,088。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -54,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qlna7HU5R0OdB5CDBrpn9
+UID:UUHUCgYdXasizues2UQJi
 SUMMARY:霸王茶姬 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Mar/2026。\n代码：CHA，公司：霸王茶姬，行业: 餐饮服务。\n预计每股收益: $0.23，当前市值: $
 	1\,940\,063\,025。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CHA \n在富途查
@@ -70,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:QIOeVjg0CkOdRRR4uk2XK
+UID:nKBzqDeJ7wLcK1uuiVU9h
 SUMMARY:PagerDuty 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260528
 DESCRIPTION:财务季度：Apr/2026。\n代码：PD，公司：PagerDuty，行业: 软件/云计算。\n预计每股收益: $0.03，当
 	前市值: $611\,048\,585。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PD \n在富
@@ -86,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:qjl_nmlZ9hMSWp__1OJnY
+UID:i5D5VsaMmCdd37Cp2FnKM
 SUMMARY:GitLab 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260602
 DESCRIPTION:财务季度：Apr/2026。\n代码：GTLB，公司：GitLab，行业: 软件。\n预计每股收益: ($0.06)，当前市值
 	: $5\,740\,166\,334。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GTLB \n
@@ -102,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:jhXnBbDrVLeQeic5Lyn50
+UID:Bxdg5sHrVwACOz5D8HAnq
 SUMMARY:博通 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260603
 DESCRIPTION:财务季度：Apr/2026。\n代码：AVGO，公司：博通，行业: 半导体/软件。\n预计每股收益: $2.02，当前市值: 
 	$2\,280\,074\,157\,369。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO
@@ -118,11 +102,11 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:6ipS06Kmpo3p3XEu3cjW5
+UID:-dI_50B--DNtGOY7lm9N2
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260624
-DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $19.40，当前市值: $1
+DESCRIPTION:财务季度：May/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $19.54，当前市值: $1
 	\,176\,440\,884\,663。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
@@ -134,9 +118,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nckeTHuxyaAKScCSOesTG
+UID:r2UTAMXe7o90yOmTqqUpy
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260715
 DESCRIPTION:财务季度：Jun/2026。\n代码：JNJ，公司：强生，行业: 药物/医疗科技。\n预计每股收益: $2.83，当前市值: 
 	$563\,770\,214\,608。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在
@@ -150,9 +134,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5US2p4m3k6B8vcO8LbgN8
+UID:9K0VYDHDkkuBYjVacB0mE
 SUMMARY:台积电 发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $3.69，当前市值: $2\
 	,241\,348\,094\,264。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
@@ -166,9 +150,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:xm2IuKU4rzGpFAVejeH6O
+UID:Hki2o85-R1qEQ0dKLmzX0
 SUMMARY:联合健康 盘前发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：UNH，公司：联合健康，行业: 保险。\n预计每股收益: $4.84，当前市值: $36
 	2\,830\,933\,730。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富途查
@@ -182,9 +166,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:PeMNo4NcAPbA5ujzFxXX0
+UID:iBp4iq8vXJljgctS0PPDL
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20260619T021721Z
+DTSTAMP:20260620T013559Z
 DTSTART;VALUE=DATE:20260716
 DESCRIPTION:财务季度：Jun/2026。\n代码：NFLX，公司：Netflix，行业: 互联网/流媒体。\n预计每股收益: $0.79，
 	当前市值: $324\,063\,054\,715。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=N
