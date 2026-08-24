@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-22",
+  "data": [
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "$2.86",
+      "time": "time-not-supplied",
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "marketCap": "$1,091,874,710,524",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$31.17",
+      "noOfEsts": "10"
+    },
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "$48.71",
+      "time": "time-not-supplied",
+      "symbol": "AZO",
+      "name": "AutoZone, Inc.",
+      "marketCap": "$48,289,583,822",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$55.08",
+      "noOfEsts": "11"
+    },
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "$1.08",
+      "time": "time-not-supplied",
+      "symbol": "AIR",
+      "name": "AAR Corp.",
+      "marketCap": "$5,427,696,809",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    },
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "$0.74",
+      "time": "time-after-hours",
+      "symbol": "WOR",
+      "name": "Worthington Enterprises, Inc.",
+      "marketCap": "$2,781,976,938",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.76",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "$0.45",
+      "time": "time-not-supplied",
+      "symbol": "MLKN",
+      "name": "MillerKnoll, Inc.",
+      "marketCap": "$1,568,878,171",
+      "fiscalQuarterEnding": "Aug/2026",
+      "epsForecast": "$0.35",
+      "noOfEsts": "3"
+    },
+    {
+      "lastYearRptDt": "9/23/2025",
+      "lastYearEPS": "($0.26)",
+      "time": "time-not-supplied",
+      "symbol": "AYTU",
+      "name": "Aytu BioPharma, Inc. ",
+      "marketCap": "$25,437,703",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "($0.22)",
+      "noOfEsts": "1"
+    },
+    {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "($0.17)",
+      "time": "time-not-supplied",
+      "symbol": "NAII",
+      "name": "Natural Alternatives International, Inc.",
+      "marketCap": "$13,491,742",
+      "fiscalQuarterEnding": "Jun/2026",
+      "epsForecast": "",
+      "noOfEsts": "N/A"
+    }
+  ]
+}
