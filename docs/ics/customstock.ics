@@ -6,9 +6,9 @@ METHOD:PUBLISH
 X-WR-CALNAME:Earnings Calendar 财报日历
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:z3G-PY59J_F9E42RPr6s2
+UID:I0AoZI4fUTUw0wtnEhA39
 SUMMARY:拼多多 发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260824
 DESCRIPTION:财务季度：Jun/2026。\n代码：PDD，公司：拼多多，行业: 电子商务。\n预计每股收益: $2.69，当前市值: $1
 	23\,935\,129\,946。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PDD \n在富途
@@ -22,9 +22,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:V_hrYV7oMSXBDR-Z9DzDE
+UID:K7Q8hprSWeLeOXe_GAyGU
 SUMMARY:英伟达 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260826
 DESCRIPTION:财务季度：Jul/2026。\n代码：NVDA，公司：英伟达，行业: 半导体。\n预计每股收益: $2.09，当前市值: $5
 	\,155\,810\,000\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=NVDA \
@@ -38,9 +38,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:t3S9UevHlz-GxpTBHGVp_
+UID:FudRE_dik6ei5tzSHWyjF
 SUMMARY:迈威尔科技 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260827
 DESCRIPTION:财务季度：Jul/2026。\n代码：MRVL，公司：迈威尔科技，行业: 半导体。\n预计每股收益: $0.65，当前市值: 
 	$214\,659\,107\,942。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MRVL \n
@@ -54,9 +54,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:rjl-PLePPna1iJl4HR_jE
+UID:YCwfzAZXTCyg5Qo15K1H9
 SUMMARY:PagerDuty 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260827
 DESCRIPTION:财务季度：Jul/2026。\n代码：PD，公司：PagerDuty，行业: 软件/云计算。\n预计每股收益: $0.12，当
 	前市值: $940\,124\,067。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=PD \n在富
@@ -70,9 +70,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:X8UM2iJnGXRx5a7d3sCqR
+UID:dB2JxcNruIx-12UYwwU0M
 SUMMARY:霸王茶姬 盘前发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260828
 DESCRIPTION:财务季度：Jun/2026。\n代码：CHA，公司：霸王茶姬，行业: 餐饮服务。\n预计每股收益: $0.33，当前市值: $
 	1\,974\,400\,380。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=CHA \n在富途查
@@ -86,9 +86,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:LjBryFPKGghDHr3Dmg43_
+UID:6UV2MiYoBJ3MavwKokj7k
 SUMMARY:GitLab 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260901
 DESCRIPTION:财务季度：Jul/2026。\n代码：GTLB，公司：GitLab，行业: 软件。\n预计每股收益: ($0.07)，当前市值
 	: $7\,860\,606\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=GTLB \n
@@ -102,9 +102,9 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:v0jfDEG0dAxVmhw-i70iB
+UID:T0W__thx7RAc7Ccye0Xm8
 SUMMARY:博通 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260902
 DESCRIPTION:财务季度：Jul/2026。\n代码：AVGO，公司：博通，行业: 半导体/软件。\n预计每股收益: $2.83，当前市值: 
 	$1\,758\,782\,290\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=AVGO
@@ -118,12 +118,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:UePYyUkh1_cHDZN7ZL_y0
+UID:FMGYjsRX_827TDoxZxPfF
 SUMMARY:美光科技 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20260930
 DESCRIPTION:财务季度：Aug/2026。\n代码：MU，公司：美光科技，行业: 半导体。\n预计每股收益: $31.24，当前市值: $1
-	\,103\,981\,840\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
+	\,147\,237\,560\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=MU \n在
 	富途查看：https://www.futunn.com/hk/stock/MU-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -134,12 +134,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:Cho5pZbBNTOkYDndIMjp-
+UID:4C7-pZTrQ5qiH4W_eZMPU
 SUMMARY:Applied Digital 发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20261008
 DESCRIPTION:财务季度：Aug/2026。\n代码：APLD，公司：Applied Digital，行业: 数据中心。\n预计每股收益: (
-	$0.25)，当前市值: $7\,688\,955\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
+	$0.25)，当前市值: $8\,196\,111\,400。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?sym
 	bol=APLD \n在富途查看：https://www.futunn.com/hk/stock/APLD-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -150,12 +150,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:O3JEev5uVCJ-KErKxGedK
+UID:6nvKIeQdP1kV16P0im4sP
 SUMMARY:强生 盘前发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20261013
 DESCRIPTION:财务季度：Sep/2026。\n代码：JNJ，公司：强生，行业: 药物/医疗科技。\n预计每股收益: $2.96，当前市值: 
-	$651\,202\,790\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在
+	$650\,648\,550\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=JNJ \n在
 	富途查看：https://www.futunn.com/hk/stock/JNJ-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -166,12 +166,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:oZdO-KVqtLHXa0GIyodfh
+UID:JVsOMxrpC6EEskDSs0LzT
 SUMMARY:联合健康 盘前发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20261013
-DESCRIPTION:财务季度：Sep/2026。\n代码：UNH，公司：联合健康，行业: 保险。\n预计每股收益: $4.07，当前市值: $33
-	6\,786\,555\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富途查
+DESCRIPTION:财务季度：Sep/2026。\n代码：UNH，公司：联合健康，行业: 保险。\n预计每股收益: $4.12，当前市值: $33
+	8\,303\,484\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=UNH \n在富途查
 	看：https://www.futunn.com/hk/stock/UNH-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -182,12 +182,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0o0tiVxbW4R1yhbDrtVGR
+UID:_IxPQnT3Usb1PlCP975uv
 SUMMARY:台积电 发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20261015
 DESCRIPTION:财务季度：Sep/2026。\n代码：TSM，公司：台积电，行业: 半导体。\n预计每股收益: $4.45，当前市值: $2\
-	,231\,545\,630\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
+	,254\,418\,210\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=TSM \n在
 	富途查看：https://www.futunn.com/hk/stock/TSM-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -198,12 +198,12 @@ TRIGGER:-PT2H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:tVFgUBAB3anUu-KOwjlBL
+UID:XY7Zs3J7V9z_b9oubDGCE
 SUMMARY:Netflix 盘后发布财报
-DTSTAMP:20260921T012212Z
+DTSTAMP:20260922T014401Z
 DTSTART;VALUE=DATE:20261020
 DESCRIPTION:财务季度：Sep/2026。\n代码：NFLX，公司：Netflix，行业: 互联网/流媒体。\n预计每股收益: $0.82，
-	当前市值: $313\,586\,287\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=N
+	当前市值: $298\,929\,226\,000。\n ~~~~~~~~~~~~ \n在股票 app 打开： stocks://?symbol=N
 	FLX \n在富途查看：https://www.futunn.com/hk/stock/NFLX-US 
 STATUS:CONFIRMED
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
