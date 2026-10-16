@@ -9,7 +9,7 @@
       "name": "KKR & Co. Inc.",
       "marketCap": "$78,237,917,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.43",
+      "epsForecast": "$1.44",
       "noOfEsts": "6"
     },
     {
@@ -20,7 +20,7 @@
       "name": "Barrick Mining Corporation",
       "marketCap": "$66,478,961,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.77",
+      "epsForecast": "$0.79",
       "noOfEsts": "6"
     },
     {
@@ -31,7 +31,7 @@
       "name": "Occidental Petroleum Corporation",
       "marketCap": "$61,627,646,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$1.37",
+      "epsForecast": "$1.39",
       "noOfEsts": "8"
     },
     {
@@ -66,17 +66,6 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "$0.40",
       "noOfEsts": "7"
-    },
-    {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "$0.16",
-      "time": "time-not-supplied",
-      "symbol": "VG",
-      "name": "Venture Global, Inc.",
-      "marketCap": "$34,601,284,000",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.55",
-      "noOfEsts": "6"
     },
     {
       "lastYearRptDt": "11/13/2025",
@@ -266,6 +255,28 @@
       "noOfEsts": "4"
     },
     {
+      "lastYearRptDt": "11/03/2025",
+      "lastYearEPS": "$0.87",
+      "time": "time-after-hours",
+      "symbol": "NOVT",
+      "name": "Novanta Inc.",
+      "marketCap": "$5,504,376,300",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.97",
+      "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "10/30/2025",
+      "lastYearEPS": "$0.42",
+      "time": "time-after-hours",
+      "symbol": "CWST",
+      "name": "Casella Waste Systems, Inc.",
+      "marketCap": "$5,426,586,600",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.36",
+      "noOfEsts": "6"
+    },
+    {
       "lastYearRptDt": "11/10/2025",
       "lastYearEPS": "($0.36)",
       "time": "time-not-supplied",
@@ -394,7 +405,7 @@
       "name": "EagleRock Land, LLC",
       "marketCap": "$2,692,205,570",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.29",
+      "epsForecast": "$0.34",
       "noOfEsts": "3"
     },
     {
@@ -658,7 +669,7 @@
       "name": "Harrow, Inc.",
       "marketCap": "$1,058,656,900",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$0.16",
+      "epsForecast": "$0.17",
       "noOfEsts": "3"
     },
     {
@@ -717,9 +728,20 @@
       "noOfEsts": "1"
     },
     {
+      "lastYearRptDt": "11/12/2025",
+      "lastYearEPS": "$0.04",
+      "time": "time-after-hours",
+      "symbol": "PAYS",
+      "name": "Paysign, Inc.",
+      "marketCap": "$874,034,180",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.10",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/10/2025",
       "lastYearEPS": "($0.08)",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "CEVA",
       "name": "CEVA, Inc.",
       "marketCap": "$868,834,690",
@@ -948,15 +970,15 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($0.16)",
-      "time": "time-not-supplied",
-      "symbol": "NRGV",
-      "name": "Energy Vault Holdings, Inc.",
-      "marketCap": "$565,521,090",
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "GMRS",
+      "name": "GMR Solutions Inc.",
+      "marketCap": "$572,089,920",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.21)",
-      "noOfEsts": "1"
+      "epsForecast": "$0.47",
+      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "11/10/2025",
@@ -1078,6 +1100,17 @@
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "($0.33)",
       "noOfEsts": "2"
+    },
+    {
+      "lastYearRptDt": "11/07/2025",
+      "lastYearEPS": "($4.07)",
+      "time": "time-pre-market",
+      "symbol": "CTEV",
+      "name": "Claritev Corporation",
+      "marketCap": "$401,993,824",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "($3.68)",
+      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "11/10/2025",
@@ -1740,14 +1773,14 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "11/10/2025",
-      "lastYearEPS": "($0.09)",
-      "time": "time-not-supplied",
-      "symbol": "BEEP",
-      "name": "Mobile Infrastructure Corporation",
-      "marketCap": "$109,238,496",
+      "lastYearRptDt": "10/30/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-after-hours",
+      "symbol": "NINE",
+      "name": "Nine Energy Service, Inc.",
+      "marketCap": "$110,902,424",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "($0.06)",
+      "epsForecast": "($0.41)",
       "noOfEsts": "2"
     },
     {
