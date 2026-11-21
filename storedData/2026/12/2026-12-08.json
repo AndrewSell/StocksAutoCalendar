@@ -32,7 +32,7 @@
       "marketCap": "$32,965,586,900",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$1.16",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "12/09/2025",
@@ -351,7 +351,7 @@
       "marketCap": "$1,058,286",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     }
   ]
 }
